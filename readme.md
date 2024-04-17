@@ -9,7 +9,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,vscode)](https://skillicons.dev)
 
 ---  
-### sns
+### 커뮤니티
 [![My Skills](https://skillicons.dev/icons?i=instagram,gmail,github,discord,apple)](https://skillicons.dev)
 
 ![js](https://img.shields.io/badge/JavaScript-B8DBE4?style=for-the-badge&logo=JavaScript&logoColor=white)
