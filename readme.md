@@ -1,18 +1,16 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=E0E0E0&height=150&section=header&text=hi-%20wlecome&fontColor=B8DBE4&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=E0E0E0&height=150&section=header&text=hi-%20welcome&fontColor=B8DBE4&fontSize=90)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=najihyeN&bg_color=B8DBE6)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=najihyeN&bg_color=B8DBE6)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 요즘 배우는 것
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,vscode)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,vscode)](https://skillicons.dev)
 
-
-## sns
+---  
+### sns
 [![My Skills](https://skillicons.dev/icons?i=instagram,gmail,github,discord,apple)](https://skillicons.dev)
-
-
 
 ![js](https://img.shields.io/badge/JavaScript-B8DBE4?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![html](https://img.shields.io/badge/HTML-B8DBE4?style=for-the-badge&logo=html5&logoColor=white)
