@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=E0E0E0&height=150&section=header&text=Hello-🖤I'm%30Jihye&fontColor=B8DBE4&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=E0E0E0&height=150&section=header&text=Hello-🖤I'm%20Jihye&fontColor=B8DBE4&fontSize=90)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=najihyeN&bg_color=B8DBE6)](https://github.com/anuraghazra/github-readme-stats)
 
