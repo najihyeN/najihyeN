@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=najihyeN&bg_color=B8DBE6)](https://github.com/anuraghazra/github-readme-stats)
 
-### 요즘 배우는 것
+### 요즘 배우는 것들
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,vscode)](https://skillicons.dev)
 
